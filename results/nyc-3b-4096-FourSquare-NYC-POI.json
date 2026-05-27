@@ -1,0 +1,13 @@
+{
+    "model_id": "nyc-3b-4096",
+    "dataset_id": "FourSquare-NYC-POI",
+    "accuracy": 0.14135759272218335,
+    "total_samples": 1429,
+    "correct_predictions": 202,
+    "config": {
+        "temperature": 0.65,
+        "top_k": 50,
+        "top_p": 0.92,
+        "repetition_penalty": 1.176
+    }
+}

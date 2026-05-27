@@ -1,0 +1,14 @@
+{
+    "model_id": "tky-3b-4096-len-100",
+    "dataset_id": "FourSquare-TKY-POI",
+    "accuracy": 0.0832378223495702,
+    "total_samples": 6980,
+    "correct_predictions": 581,
+    "config": {
+        "temperature": 0.65,
+        "top_k": 50,
+        "top_p": 0.92,
+        "repetition_penalty": 1.176,
+        "profile_mode": "len-100"
+    }
+}

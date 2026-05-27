@@ -1,0 +1,13 @@
+{
+    "model_id": "tky-3b-4096",
+    "dataset_id": "FourSquare-TKY-POI",
+    "accuracy": 0.09756446991404011,
+    "total_samples": 6980,
+    "correct_predictions": 681,
+    "config": {
+        "temperature": 0.65,
+        "top_k": 50,
+        "top_p": 0.92,
+        "repetition_penalty": 1.176
+    }
+}
